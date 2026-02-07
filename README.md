@@ -33,6 +33,8 @@ Binary Cross Entropy (BCE)
 Adam Optimizer
 Learning rate = 0.0002
 Beta1 = 0.5
+<img width="927" height="1019" alt="image" src="https://github.com/user-attachments/assets/978287b0-8387-4275-92e9-beeebaf6b098" />
+
 
 **Module 3 — Training & Monitoring**
 This module handles GAN training logic.
